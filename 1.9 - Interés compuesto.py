@@ -1,0 +1,10 @@
+cantidad_ingresada=float(input("Indica la cantidad a ingresar > "))
+interes= (4)
+cantidad_generada= cantidad_ingresada*(interes/100)
+cantidad_total= cantidad_generada+cantidad_ingresada
+print()
+print(f"La cantidad generada a un año, sería de {cantidad_generada}, lo que haria un total de {cantidad_total}")
+print()
+print(f"La cantidad generada a dos años, sería de {cantidad_generada*2}, lo que haría un total de {cantidad_ingresada+(cantidad_generada*2)}")
+print()
+print(f"La cantidad generada a dos años, sería de {cantidad_generada*3}, lo que haría un total de {cantidad_ingresada+(cantidad_generada*3)}")

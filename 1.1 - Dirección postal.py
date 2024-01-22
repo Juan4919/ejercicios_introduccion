@@ -1,0 +1,1 @@
+print("Nombre: Juan G. M. \nDirección: Calle perico de los palotes, Nº10 3ºH")
